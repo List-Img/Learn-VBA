@@ -1,7 +1,10 @@
 ## 一、主要功能
+
 1. 读取文件夹下的所有文件。
 2. 将文件的文件名存储至工作表中。
+
 ## 二、功能实现
+
 1. 主要代码Syntax说明：
 
    <code>
@@ -30,3 +33,7 @@ Sub text()
   Loop
 End Sub
 </code>
+</pre>
+## 三、参考资料
+1. <a href="https://www.cnblogs.com/gilgamesh-hjb/p/7291821.html">Dir()主要用于获取（遍历）目录下的文件名</a>
+2. <a href="http://club.excelhome.net/thread-371188-1-1.html">VBA函数精选之十二（Dir函数）<a>
